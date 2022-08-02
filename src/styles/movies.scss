@@ -1,0 +1,19 @@
+.list {
+    background-color: green;
+    display: flex;
+    justify-content: center;
+}
+
+.poster-box {
+    background-color: blue;
+    width: 200px;
+    height: 300px;
+    border: black 1px solid;
+    margin: 10px;
+}
+
+.movieName {
+    display: inline-block;
+    width: 200px;
+    justify-items: center;
+}
